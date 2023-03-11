@@ -19,6 +19,7 @@ public class Main {
 
 ```
 ## Output:
+![hi](pic%2001.png)
 
 
 ## 2. Write a Java program to compare two numbers
@@ -41,7 +42,7 @@ public class Main {
 }
 ```
 ## Output:
-
+![hi](pic%2002.png)
 ## 3. Write a Java program to convert a string to an integer
 ```
 import java.util.Scanner;
@@ -56,6 +57,7 @@ public class Main {
 ```
 
 ## Output;
+![hi](pic%2003.png)
 
 ## 4. Java Program to find area of rhombus
 ```
@@ -72,6 +74,7 @@ public class Main {
 ```
 
 ## Output:
+![hi](pic%2004.png)
 
 ##  5. Write a Java program to find the number of days in a month
 ```
@@ -107,6 +110,7 @@ public class Main {
 ```
 
 ## Output:
+![hi](pic%2005.png)
 
 ## 6. Write a Java program to print the even numbers from 1 to 20
 ```
@@ -127,6 +131,7 @@ public class Main {
 ```
 
 ## Output:
+![hi](pic%2006.png)
 
 ## 7. Write a Java program to create a simple calculator
 ```
@@ -174,6 +179,7 @@ public class Main {
 ```
 
 ## Output:
+![hi](pic%2007.png)
 
 ## 8. Write a Java program to print multiplication table of given number
 ```
@@ -192,5 +198,6 @@ public class Main {
 }
 ```
 ## Output:
+![hi](pic%2008.png)
 
 
