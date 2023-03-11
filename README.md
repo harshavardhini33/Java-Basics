@@ -19,9 +19,9 @@ public class Main {
 
 ```
 ## Output:
-![Uploading pic 01.png…]()
 
-## 2.Write a Java program to compare two numbers
+
+## 2. Write a Java program to compare two numbers
 ```
 import java.util.Scanner;
 public class Main {
@@ -42,7 +42,7 @@ public class Main {
 ```
 ## Output:
 
-## 3.Write a Java program to convert a string to an integer
+## 3. Write a Java program to convert a string to an integer
 ```
 import java.util.Scanner;
 public class Main {
@@ -57,7 +57,7 @@ public class Main {
 
 ## Output;
 
-## 4.Java Program to find area of rhombus
+## 4. Java Program to find area of rhombus
 ```
 import java.util.Scanner;
 public class Main {
@@ -73,7 +73,7 @@ public class Main {
 
 ## Output:
 
-##  5.Write a Java program to find the number of days in a month
+##  5. Write a Java program to find the number of days in a month
 ```
 import java.util.Scanner;
 public class Main {
@@ -108,7 +108,7 @@ public class Main {
 
 ## Output:
 
-## 6.Write a Java program to print the even numbers from 1 to 20
+## 6. Write a Java program to print the even numbers from 1 to 20
 ```
 import java.util.Scanner;
 public class Main {
@@ -128,7 +128,7 @@ public class Main {
 
 ## Output:
 
-## 7.Write a Java program to create a simple calculator
+## 7. Write a Java program to create a simple calculator
 ```
 import java.util.Scanner;
 public class Main {
