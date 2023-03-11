@@ -16,9 +16,10 @@ public class Main {
         System.out.println("Remainder of two numbers: " +(a%b));
     }
 }
+
 ```
 ## Output:
-
+![Uploading pic 01.png…]()
 
 ##  Write a Java program to compare two numbers
 ```
